@@ -10,4 +10,3 @@ const foodOrder = {
 };
 foodOrder.totalPrice = 5000;
 foodOrder.paymentType = "Credit Card";
-console.log(foodOrder)
